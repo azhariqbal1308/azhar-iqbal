@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+A passionate and dedicated Information Security Engineer With nearly 2 years of experience in security solutions deployment and client support. I specialize in implementing and managing a wide range of security solutions to safeguard client infrastructures, My expertise includes deploying and optimizing security systems to meet client needs.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
