@@ -46,7 +46,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-SIEM%20Engineer%20by%20LetsDefend-007ACC?&style=for-the-badge&logo=letsdefend&logoColor=white" />
-<img src="https://img.shields.io/badge/-SOC%20Analyst%20Path%20Completed%20by%20LetsDefend-007ACC?&style=for-the-badge&logo=letsdefend&logoColor=white" />
+<img src="https://img.shields.io/badge/-SOC%20Analyst%20by%20LetsDefend-007ACC?&style=for-the-badge&logo=letsdefend&logoColor=white" />
 </div>
 
 ## Projects
