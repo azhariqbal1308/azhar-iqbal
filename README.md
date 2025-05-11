@@ -20,7 +20,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -46,13 +45,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<a href="https://letsdefend.io" target="_blank" style="text-decoration: none;">
-  <img src="https://letsdefend.io/assets/images/logo.png" alt="LetsDefend Logo" style="height: 28px; vertical-align: middle; margin-right: 8px;" />
-  <span style="background-color: #007ACC; color: white; padding: 6px 12px; border-radius: 4px; font-family: sans-serif; font-weight: 
-bold;">
-    SIEM Engineer by LetsDefend
-  </span>
-</a>
+<img src="https://img.shields.io/badge/-SIEM%20Engineer%20by%20LetsDefend-007ACC?&style=for-the-badge&logo=letsdefend&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
