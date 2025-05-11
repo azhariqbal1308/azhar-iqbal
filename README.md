@@ -49,7 +49,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://letsdefend.io" target="_blank" style="text-decoration: none;">
   <img src="https://letsdefend.io/assets/images/logo.png" alt="LetsDefend Logo" style="height: 28px; vertical-align: middle; margin-right: 8px;" />
   <span style="background-color: #007ACC; color: white; padding: 6px 12px; border-radius: 4px; font-family: sans-serif; font-weight: 
- bold;">
+bold;">
     SIEM Engineer by LetsDefend
   </span>
 </a>
