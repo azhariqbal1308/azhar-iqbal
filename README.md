@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| ELK SIEM Implementation Labs                  | <a href="https://google.com">Detection Lab</a>|
+| ELK SIEM Implementation Labs                  | <a href="https://github.com/azhariqbal1308/azhar-iqbal/blob/main/Elasticsearch-labs">ELK Labs</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
