@@ -1,14 +1,13 @@
 # Hello, I'm Azhar Iqbal
 <a href="https://www.linkedin.com/in/azhariqbalcyber/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-A passionate and dedicated Information Security Engineer with  2 years of experience in security solutions deployment and client support. I specialize in implementing and managing a wide range of security solutions to safeguard client infrastructures. My expertise includes deploying and optimizing security systems to meet client needs.
+A passionate and dedicated Information Security Engineer with  2 years of experience in security solutions deployment and client support. I specialize in implementing and managing a wide range of security solutions to safeguard client infrastructures. My expertise includes deploying and optimizing security systems to meet the specific needs of clients.
 
 ## Objective
 
 My journey in computer science has led me to develop a passion for cybersecurity. I am now eager to begin my professional career in this field, with a strong interest in roles such as Security Operations Center (SOC) Analyst or Identity and Access Management (IAM), where I can contribute to securing digital environments and continuously grow my skills.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
