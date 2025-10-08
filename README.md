@@ -1,7 +1,7 @@
 # Hello, I'm Azhar Iqbal
 <a href="https://www.linkedin.com/in/azhariqbalcyber/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-A passionate and dedicated Information Security Engineer With nearly 2 years of experience in security solutions deployment and client support. I specialize in implementing and managing a wide range of security solutions to safeguard client infrastructures, My expertise includes deploying and optimizing security systems to meet client needs.
+A passionate and dedicated Information Security Engineer with  2 years of experience in security solutions deployment and client support. I specialize in implementing and managing a wide range of security solutions to safeguard client infrastructures. My expertise includes deploying and optimizing security systems to meet client needs.
 
 ## Objective
 
